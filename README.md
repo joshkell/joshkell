@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 - Statistician and Researcher at Salt Lake Community College
 - Master's in Exercise Sciences
 - Currently working on PhD in Rehabilitation Sciences with an emphasis in Biostatistics (Public Health Statistics)
-- I enjoy running, swimming, cycling, and lifting weight
+- I enjoy running, swimming, cycling, and lifting weights
 - Publications: https://www.linkedin.com/in/joshua-kelley-108/details/publications/
