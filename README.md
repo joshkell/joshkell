@@ -2,6 +2,8 @@
 ### Hi there 👋
 --> 
 
+I am Josh Kelley, I have 7+ years of health-related academic research experience and statistical analysis experience. 
+
 <!--
 **joshkell/joshkell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,7 +20,7 @@ Here are some ideas to get you started:
 -->
 
 - Statistician and Researcher at Salt Lake Community College
-- Master's in Exercise Sciences
+- Master's in Exercise Sciences (Health Promotion & Exercise Physiology)
 - Currently working on PhD in Rehabilitation Sciences with an emphasis in Biostatistics (Public Health Statistics)
 - I enjoy running, swimming, cycling, and lifting weights
 - Publications: https://www.linkedin.com/in/joshua-kelley-108/details/publications/
