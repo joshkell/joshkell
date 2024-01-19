@@ -2,7 +2,7 @@
 ### Hi there 👋
 --> 
 
-I am Josh Kelley, I have 7+ years of health-related academic research experience and statistical analysis experience. 
+I am Josh Kelley, I have 7+ years of health-related academic research and statistical analysis experience. 
 
 <!--
 **joshkell/joshkell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
