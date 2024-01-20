@@ -22,5 +22,6 @@ Here are some ideas to get you started:
 - Statistician and Researcher at Salt Lake Community College
 - Master's in Exercise Sciences (Health Promotion & Exercise Physiology)
 - Currently working on PhD in Rehabilitation Sciences with an emphasis in Biostatistics (Public Health Statistics)
-- I enjoy running, swimming, cycling, and lifting weights
+- Technical skills: R, Stata, SAS, Python, SQL, and Tableau 
 - Publications: https://www.linkedin.com/in/joshua-kelley-108/details/publications/
+- I enjoy running, swimming, cycling, and lifting weights
