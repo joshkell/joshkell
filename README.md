@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Statistician and Researcher at Salt Lake Community College
+- Epidemiologist/Modeler for the state of Utah
 - Master's in Exercise Sciences (Health Promotion & Exercise Physiology)
 - Currently working on PhD in Rehabilitation Sciences with an emphasis in Biostatistics (Public Health Statistics)
 - Technical skills: R, Stata, SAS, Python, SQL, and Tableau 
